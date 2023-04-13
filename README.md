@@ -1,4 +1,4 @@
-### Hi there 👋
+### 쉿 공부중 👋
 
 <!--
 **tmdghks8642/tmdghks8642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
